@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there and welcome to my github page 👋
+
+My name is Rakesh Nayak and I am a web developer from Bengaluru, India. I do a lot of things and some of them you may find intresting 
+
+### What do I do?
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=rakesh-nayak&show_icons=true&count-private=true&custom_title)
 
 <!--
 **rakesh-nayak/rakesh-nayak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
